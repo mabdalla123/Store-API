@@ -1,4 +1,4 @@
-<h1>Store API </h1> 
+<h1>Store API using Laravel </h1> 
 <p>this is part of a store api i have previously developed</p>
 <p>key features</p>
 <ul>
